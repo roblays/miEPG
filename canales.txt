@@ -1,0 +1,5 @@
+La 1 HD,La.1.es,https://docdog.top/logo/countries/spain/movistar/LA_1.png
+La 2,La.2.es,https://docdog.top/logo/countries/spain/movistar/LA_2.png
+Antena 3 HD,Antena.3.es,https://docdog.top/logo/countries/spain/movistar/Antena_3.png
+Energy,Energy.es,https://docdog.top/logo/countries/spain/movistar/Energy.png
+Neox,Neox.es,https://docdog.top/logo/countries/spain/movistar/Neox.png
